@@ -1,3 +1,5 @@
 Link para download do Git: https://git-scm.com/downloads
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Após o clone (git clone <link do repositório>), usar o Git GUI para commitar e fazer o push com as alterações ao GitHub.
